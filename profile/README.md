@@ -1,4 +1,4 @@
-#Tractus-X Events at ARENA2036
+# Tractus-X Events at ARENA2036
 
 This organization hosts repositories for Tractus-X events that take place at ARENA2036, such as hackathons, community days and hands-on workshops.
 
